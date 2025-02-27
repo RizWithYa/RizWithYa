@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RizWithYa
 - 👀 I’m interested in Learning coding (Any of codes)
-- 🌱 I’m currently learning in C language
+- 🌱 I’m currently learning in PHP language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
