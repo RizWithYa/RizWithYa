@@ -10,7 +10,7 @@ An enthusiastic computer science student at Politeknik Elektronika Negeri Suraba
 - 🔭 Working on backend systems and desktop applications using **Java** and **Python**.
 - 🌱 Deepening my knowledge in **Data Analysis**, **Object-Oriented Programming**, and **Database Optimization**.
 - 👯 Looking to collaborate on open-source projects related to system utilities or algorithmic challenges.
-- 📫 How to reach me: [your.email@example.com](mailto:krizki990@outlook.com)
+- 📫 How to reach me: [krizki990@outlook.com](mailto:krizki990@outlook.com)
 
 ---
 
