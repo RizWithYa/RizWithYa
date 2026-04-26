@@ -1,4 +1,4 @@
-content = """<h1 align="center">Hi, I'm Muhammad Rizqi Putra Nugroho! 👋</h1>
+content = <h1 align="center">Hi, I'm Muhammad Rizqi Putra Nugroho! 👋</h1>
 
 <p align="center">
   Software Engineering Staff with a deep interest in <b>Mobile Development</b>, <b>Machine Learning</b>, and <b>System Infrastructure</b>.
@@ -29,9 +29,5 @@ content = """<h1 align="center">Hi, I'm Muhammad Rizqi Putra Nugroho! 👋</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RizWithYa&show_icons=true&theme=radical&hide_border=true" alt="RizWithYa's GitHub Stats" />
 </p>
-"""
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(content)
 
-print("README.md updated")
