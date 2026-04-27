@@ -6,7 +6,7 @@ content = <h1 align="center">Hi, I'm Muhammad Rizqi Putra Nugroho! 👋</h1>
 
 ### 🚀 About Me
 - 💼 Currently working as a Software Engineering Staff member.
-- 🌐 Check out my portfolio and personal website at [mrpn.co.id](https://mrpn.co.id).
+- 🌐 Check out my portfolio and personal website at [mrpn.co.id](https://mrpn.my.id).
 - 🐧 Highly enthusiastic about system administration (Linux Mint/CachyOS), computer networking, and workflow automation.
 - ⚡ In my free time, I dive into optimization algorithms (like PSO and AHP) and AI integrations.
 
@@ -22,7 +22,7 @@ content = <h1 align="center">Hi, I'm Muhammad Rizqi Putra Nugroho! 👋</h1>
 - **NexusReader:** An intelligent multi-document analyst system created during the Agile Teknik Festival.
 
 ### 📫 Let's Connect
-- **Website:** [mrpn.co.id](https://mrpn.co.id)
+- **Website:** [mrpn.co.id](https://mrpn.my.id)
 - **GitHub:** [@RizWithYa](https://github.com/RizWithYa)
 
 ---
