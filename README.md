@@ -5,7 +5,6 @@
 </p>
 
 ### 🚀 About Me
-- 💼 Currently working as a Software Engineering Staff member.
 - 🌐 Check out my portfolio and personal website at [mrpn.my.id](https://mrpn.my.id).
 - 🐧 Highly enthusiastic about system administration (Linux Mint/CachyOS), computer networking, and workflow automation.
 - ⚡ In my free time, I dive into optimization algorithms (like PSO and AHP) and AI integrations.
