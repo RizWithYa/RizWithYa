@@ -24,8 +24,4 @@
 - **GitHub:** [@RizWithYa](https://github.com/RizWithYa)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizWithYa&show_icons=true&theme=radical&hide_border=true" alt="RizWithYa's GitHub Stats" />
-</p>
-
 
