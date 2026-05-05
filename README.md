@@ -18,8 +18,7 @@
 ### 💡 Featured Projects
 - **Nutrify:** An AI-integrated nutrition tracking app built with Flutter, utilizing a structured boilerplate architecture.
 - **PilahPintar:** A smart mobile application designed for waste classification leveraging Computer Vision (CNN) technology.
-- **NexusReader:** An intelligent multi-document analyst system created during the Agile Teknik Festival.
-
+  
 ### 📫 Let's Connect
 - **Website:** [mrpn.my.id](https://mrpn.my.id)
 - **GitHub:** [@RizWithYa](https://github.com/RizWithYa)
