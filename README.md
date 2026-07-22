@@ -53,16 +53,6 @@ An intelligent voice-enabled clinical system integrating traditional information
 *   **Technologies:** Next.js, Python, ASR Models, PostgreSQL
 *   **Key Highlights (WIP):** Integrating AI transcription models to capture doctors' verbal assessments, mapping conversational speech straight to structured medical database fields, eliminating manual typing overhead.
 
-#### 5. Interactive Eid Greeting (Creative Web)
-An atmospheric, interactive web experience celebrating Eid, designed to showcase advanced front-end layout styling and creative animation triggers.
-*   **Technologies:** HTML5, CSS3, JavaScript, GSAP/AOS
-*   **Key Highlights:** Hand-designed vector mosque silhouette architecture overlays, ambient soundtrack controls with smooth transitions, custom responsive particle effects.
-
-#### 6. Feature-Rich Task Manager (Mobile App)
-A comprehensive and highly customizable task organizer built to exercise advanced local hardware interactions and notification controls.
-*   **Technologies:** Flutter, Dart, Provider, Local Notifications, Shared Preferences, Geolocator
-*   **Key Highlights:** Geolocation-aware task reminders, device image-picker uploads for task attachments, native local push notification scheduling, local state persistence via Shared Preferences.
-
 ---
 
 ### GitHub Analytics & Profile Stats
@@ -78,5 +68,4 @@ A comprehensive and highly customizable task organizer built to exercise advance
 ### Reach Out
 
 *   **GitHub Profile:** [github.com/RizWithYa](https://github.com/RizWithYa)
-*   **Portofolio:** [mrpn.my.id](mrpn.my.id)
 *   **Available For:** Collaboration on Frontend Web, Flutter Mobile Apps, and AI-enabled Web Systems.
