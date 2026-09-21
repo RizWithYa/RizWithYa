@@ -1,6 +1,6 @@
 ## Engineering Digital Future | Frontend & Mobile Developer
 
-I am a passionate **Frontend and Mobile Developer** currently pursuing an Informatics degree at **Politeknik Elektronika Negeri Surabaya (PENS)**, based in Surabaya, Indonesia. I focus on building fast, clean, and functional web and mobile applications—ranging from modern interface designs to intelligent artificial intelligence integrations.
+I am a passionate **Frontend and Mobile Developer** currently in Love with **Larping**. I focus on building fast, clean, and functional web and mobile applications—ranging from modern interface designs to intelligent artificial intelligence integrations.
 
 ---
 
